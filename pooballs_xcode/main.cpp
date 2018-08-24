@@ -3,6 +3,6 @@
 
 int main(int, char const**)
 {
-    Pooballs pooballs = Pooballs();
+    Pooballs pooballs(0);
     return EXIT_SUCCESS;
 }
